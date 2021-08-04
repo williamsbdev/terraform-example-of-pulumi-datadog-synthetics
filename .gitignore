@@ -1,0 +1,7 @@
+# ignore terraform files
+.terraform
+.terraform.lock.hcl
+terraform.tfstate*
+
+# ignore variables file
+variables.tfvars
